@@ -25,7 +25,7 @@ def all_files(directory,degree,rgb):# все файлы в данной дире
 		rorate(directory,name,degree,rgb) #все имена из списка с png поворачивает
 		
 	
-#all_files("D:\Python\\",45,'r')
+all_files("D:\Python\\",45,'r')
 #rorate("D:\Python\\","Hurt.jpg",90,'r,g,b')
 
 
