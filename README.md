@@ -1,2 +1,1 @@
-# Python_projects
-This some programs on python
+# Project for rotate, inverse images via pillow
